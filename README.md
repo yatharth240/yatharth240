@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yatharth240
-- 👀 I’m interested in Web Development, Mobile App developmentusing React Native
-- 🌱 I’m currently learning Machine Learning 
+- 👀 I’m interested in Web Development, Machine Learning
+- 🌱 I’m currently learning App development
 - 📫 How to reach me yathartharora240@gmail.com
 
 
